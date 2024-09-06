@@ -1,5 +1,5 @@
 # cv design project
- bmd's CV Design Project (My 1st ever HTML & CSS project - Sololearn)
+ bmd's CV Design Project (My 1st ever HTML & CSS project - Sololearn - March 2, 2023)
 
 ![digitalWatch](screenshot.png)
 
