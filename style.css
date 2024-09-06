@@ -6,9 +6,18 @@ html {
 }
 
 body {
+	height: 100vh !important;
+	margin: 0;
+	display: grid;
+	place-items: center;
 	font-size: 100%;
 	background: #00191A;
 	color: #E5FEFFB3;
+}
+
+a {
+    text-decoration: none !important;
+	color: white;
 }
 
 img {
